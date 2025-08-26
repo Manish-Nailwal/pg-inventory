@@ -57,7 +57,7 @@ generate_doc(servers, OUTPUT_DIR)
 ### 3. Output
 - A **Markdown file** (`postgres_inventory.md`) → Human-readable docs  
 - A **JSONL file** (`postgres_inventory.jsonl`) → Machine-readable  
-- Both are stored in a timestamped folder under your `OUTPUT_DIR`.
+- Both are stored in your `OUTPUT_DIR` folder.
 
 ---
 
